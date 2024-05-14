@@ -1,0 +1,16 @@
+key	color	gray	comment
+0	85, 102, 170	255	water
+5	231, 231, 231	245	ice sheets
+101	85, 136, 119	215	tundra
+103	170, 221, 204	160	cold dry winter
+104	221, 204, 102	180	cold dry summer
+105	102, 136, 34	130	cold humid
+106	68, 170, 136	170	temperate dry winter
+107	255, 221, 68	190	temperate dry summer
+108	85, 170, 34	120	temperate humid
+109	255, 238, 136	200	deset
+110	136, 187, 170	150	steppe
+111	153, 187, 85	140	savanna
+112	68, 170, 102	110	monsoon
+113	17, 119, 51	100	tropical humid
+
